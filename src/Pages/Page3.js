@@ -17,12 +17,12 @@ function Page3() {
             <div className="absolute top-[431px] left-[16px] w-[22px] h-[18px]">
                 <input type="checkbox" className="absolute h-full focus:bg-red w-full top-0 right-0 bottom-0 left-0 rounded box-border border-[1px] border-solid border-gray-100" />
             </div>
-            <input placeholder='First Name' className="absolute top-[135px] left-[16px] rounded-xl bg-[#F1F1F1] w-[343px] h-[50px] focus:border-none  border-none font-semibold">
+            <input placeholder='First Name' className="absolute pl-1 top-[135px] left-[16px] rounded-xl bg-[#F1F1F1] w-[343px] h-[50px] focus:border-none  border-none font-semibold">
             </input>
-            <input placeholder='Last Name' className="absolute focus:border-none border-none bg-[#F1F1F1] font-semibold  top-[209px] left-[16px] rounded-xl  w-[343px] h-[50px]"></input>
-            <input placeholder='Email' className="absolute focus:border-none border-none bg-[#F1F1F1]  font-semibold top-[283px] left-[16px] rounded-xl w-[343px] h-[50px]">
+            <input placeholder='Last Name' className="absolute pl-1 focus:border-none border-none bg-[#F1F1F1] font-semibold  top-[209px] left-[16px] rounded-xl  w-[343px] h-[50px]"></input>
+            <input placeholder='Email' className="absolute pl-1 focus:border-none border-none bg-[#F1F1F1]  font-semibold top-[283px] left-[16px] rounded-xl w-[343px] h-[50px]">
             </input>
-            <input placeholder='Password' className="absolute focus:border-none border-none bg-[#F1F1F1] font-semibold  top-[357px] left-[16px] rounded-xl  w-[343px] h-[50px]" >
+            <input placeholder='Password' className="absolute pl-1 focus:border-none border-none bg-[#F1F1F1] font-semibold  top-[357px] left-[16px] rounded-xl  w-[343px] h-[50px]" >
             </input>
 
             <div className="absolute top-[756px] left-[115px] font-medium cursor-pointer text-black">
