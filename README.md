@@ -1,3 +1,25 @@
+# Fitness Tracker
+
+A mobile-responsive fitness tracker application built using React.js and Tailwind CSS (Frontend only).
+
+## Overview
+
+This project is a fitness tracker designed specifically for mobile devices. It allows users to track their daily workouts, set fitness goals, and monitor their progress over time. The application provides a user-friendly interface for adding and viewing workouts and analyzing statistics to optimize training routines.
+
+## Features
+
+- **Workout Tracking**: Users can log their workouts, including exercises, sets, reps, and weights.
+- **Goal Setting**: Set personal fitness goals and track progress towards achieving them.
+- **Statistics**: Analyze workout data to gain insights into performance and progress.
+- **Mobile Responsive**: Designed and optimized for use on mobile devices for a seamless user experience.
+
+## Tech Stack
+
+- **React.js**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for creating custom designs quickly.
+- **npm**: Node Package Manager for managing project dependencies and scripts.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
